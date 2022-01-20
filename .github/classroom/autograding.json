@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Test: Problem 1 / print_output",
-      "setup": "sudo -H pip3 install pytest",
+      "setup": "sudo -H pip3 install pytest numpy",
       "run": "pytest --tb=short tests/problem_1/test_print_output.py",
       "input": "",
       "output": "",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Test: Problem 1 / run_program",
-      "setup": "sudo -H pip3 install pytest",
+      "setup": "sudo -H pip3 install pytest numpy",
       "run": "pytest --tb=short tests/problem_1/test_run_program.py",
       "input": "",
       "output": "",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Test: Problem 2 / tree_structure",
-      "setup": "sudo -H pip3 install pytest",
+      "setup": "sudo -H pip3 install pytest numpy",
       "run": "pytest --tb=short tests/problem_2/test_tree_structure.py",
       "input": "",
       "output": "",
