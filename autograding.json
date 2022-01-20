@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Test: Problem 1 / print_output",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest --tb=short tests/problem_1/test_print_output.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "Test: Problem 1 / run_program",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest --tb=short tests/problem_1/test_run_program.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Test: Problem 2 / tree_structure",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest --tb=short tests/problem_2/test_tree_structure.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 5
+    }
+  ]
+}
