@@ -16,8 +16,8 @@ The workflow for submitting homeworks in this class will be
 
 1. **Follow the repository creation link** (on Canvas). The link looks
    like `https://classroom.github.com/a/FuNNyleTT3rs`. This will
-   create your personal, private repository, named `hwNN-yourname`
-   where _yourname_ is your GitHub username.
+   create your personal, private repository, named
+   `activity-00-yourname` where _yourname_ is your GitHub username.
 2. In the shell on your computer, **clone the repository to your own
    computer**, using the specific repository name:
 
