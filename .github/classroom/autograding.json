@@ -22,7 +22,7 @@
     },
     {
       "name": "Test: Problem 2 / tree_structure",
-      "setup": "sudo -H pip3 install pytest numpy",
+      "setup": "sudo -H pip3 install pytest",
       "run": "pytest --tb=short tests/problem_2/test_tree_structure.py",
       "input": "",
       "output": "",
