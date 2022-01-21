@@ -18,7 +18,7 @@ Create a Python program `hello.py` that prints
 Create
 1. a directory `planets` 
 2. a directory `iceplanets` inside `planets`
-3. a file `hoth.txt` inside `planets` with content
+3. a file `hoth.txt` inside `planets/iceplanets` with content
 
         Hoth is a boring, icy world.
         Nobody would want to live there.
